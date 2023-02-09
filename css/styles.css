@@ -263,3 +263,10 @@ body{
   .modal-header h2 {
 	font-size: 20px;
   }
+
+  .footer {
+	background-color: yellow;
+	color: black;
+	text-align: center;
+	padding: 10px;
+  }
